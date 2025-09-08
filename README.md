@@ -43,3 +43,9 @@ This project was developed as part of my academic coursework, demonstrating conc
 - Admin dashboard for data management  
 
 ---
+
+⚠️ Note:  
+Due to **privacy concerns of alumni data**, the source code repository is kept **private**.  
+This GitHub entry and YouTube video serve as a **demo showcase** only.  
+
+📑 For full project details, please refer to the **documentation** (Report, Abstract, PPT).
