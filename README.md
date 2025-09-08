@@ -36,10 +36,10 @@ Alumni-Management-Portal/
 
 ## 📸 Screenshots
 ### Homepage
-![Portal Homepage](4- Media/Home Page.jpg)
+![Portal Homepage](4-Media/Home_Page.jpg)
 
 ### Alumni Dashboard
-![Dashboard](4- Media/Alumni Coordinator Dashboard.jpg)
+![Dashboard](4-Media/Alumni_Coordinator_Dashboard.jpg)
 
 ---
 
