@@ -28,8 +28,8 @@ This project was developed as part of my academic coursework, demonstrating conc
 ---
 
 ## 📑 Documentation
-- [📄 Project Stage -1 Report](1-Documentation\Report 1-stage.pdf)  
-- [📄 Project Stage -2 Report](1-Documentation\Report 2-stage.pdf)    
+- [📄 Project Stage -1 Report](1-Documentation\Report1-stage.pdf)
+- [📄 Project Stage -2 Report](1-Documentation\Report2-stage.pdf)   
 - [📄 Abstract](1-Documentation\Abstraction.pdf)  
 - [📊 Presentation PPT](1-Documentation\Presentation.pptx)  
 
