@@ -1,4 +1,3 @@
-# 🎓 Alumni Management Portal
 
 <p align="center">
   <img
