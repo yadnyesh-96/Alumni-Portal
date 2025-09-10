@@ -7,7 +7,8 @@
 </p>
 
 ## 📌 Abstract
-The **Alumni Management Portal** is a web-based application designed to connect alumni with their alma mater.  
+The **Alumni Management Portal** is a web-based application designed to help Alumni stay connected with their educational institution they attended. 
+ 
 It provides features like alumni registration, login, profile management, event announcements, and an admin dashboard for managing alumni data.  
 
 This project was developed as part of my academic coursework, demonstrating concepts of **full stack web development, database management, and system design**.  
